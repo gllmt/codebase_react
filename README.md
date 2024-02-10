@@ -3,7 +3,7 @@
 
 ## Informations
 
-Code Base perso à ce servir comme base pour différents projets React/Next JS : Catalogue de fonctionalitées : 
+Code Base personnelle à utiliser comme fondation pour divers projets React/Next.js : Catalogue de fonctionnalités :
 
 <!-- [**TypeScript En Partant De Zéro**](https://www). -->
 
